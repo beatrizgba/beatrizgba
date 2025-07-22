@@ -1,12 +1,29 @@
+# 👋 Quem é a Beatriz?
 
+Olá! Eu sou a Beatriz Almeida.  
+🔭 Atualmente trabalho como Assistente de Compras.  
+🌱 Estou estudando SQL e dando meus primeiros passos no mundo da análise de dados.  
+📫 Entre em contato:  
+✉️ beatrizgbalmeida@gmail.com  
+📱 (11) 98268-6327  
+<br/>
 
-<!--
-**beatrizgba/beatrizgba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- Olá, Eu sou a Beatriz.
-- 🔭 Estou atualmente trabalhando como Assistente de Compras.
-- 🌱 Estudando SQL.
-- 📫 Entre em contato: beatrizgbalmeida@gmail.com ou 11 98268-6327.
+### 📚 Projetos
 
-📚 Projetos
+💡 Estou desenvolvendo meu primeiro projeto em SQL, aplicando os conhecimentos que venho adquirindo nos estudos.  
+Consegue verifica-lo no meu repósitorio de [Projetos](https://github.com/beatrizgba/Projetos)
+<br/>
 
-Estou trabalhando no meu primeiro projeto de SQL.
+### 🚀 Objetivo  
+
+Meu objetivo é migrar para a área de Dados, unindo minha experiência administrativa ao poder da análise e da tecnologia.  
+<br/>
+
+### 🛠️ Skills  
+
+**Linguagens & Ferramentas que estou aprendendo ou já usei:**  
+
+🐍 **Python (básico)** – lógica de programação, manipulação de dados com listas e dicionários  
+📊 **SQL** – consultas simples, filtragem, ordenação, joins básicos  
+📄 **Excel (básico)** – fórmulas simples, organização de dados  
+
