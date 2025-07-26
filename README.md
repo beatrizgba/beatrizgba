@@ -11,7 +11,7 @@ Olá! Eu sou a Beatriz Almeida.
 ### 📚 Projetos
 
 💡 Estou desenvolvendo meu primeiro projeto em SQL, aplicando os conhecimentos que venho adquirindo nos estudos.  
-Consegue verifica-lo no meu repósitorio de [Projetos](https://github.com/beatrizgba/Projetos)
+Consegue verifica-lo no meu repósitorio de [Projetos.](https://github.com/beatrizgba/Projetos)
 <br/>
 
 ### 🚀 Objetivo  
