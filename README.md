@@ -1,8 +1,8 @@
 # 👋 Quem é a Beatriz?
 
 Olá! Eu sou a Beatriz Almeida.  
-🔭 Atualmente trabalho como Assistente de Compras.  
-🌱 Estou estudando SQL e dando meus primeiros passos no mundo da análise de dados.  
+🔭 Atualmente trabalho como Estágiaria de Field Services.  
+🌱 Estou estudando SQL e PYTHON, dando meus primeiros passos no mundo da análise de dados.  
 📫 Entre em contato:  
 ✉️ beatrizgbalmeida@gmail.com  
 📱 (11) 98268-6327  
