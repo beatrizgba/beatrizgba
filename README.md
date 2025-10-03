@@ -2,7 +2,7 @@
 
 Olá! Eu sou a Beatriz Almeida.  
 🔭 Atualmente trabalho como Estágiaria de Field Services.  
-🌱 Estou estudando SQL e PYTHON, dando meus primeiros passos no mundo da análise de dados.  
+🌱 Estou estudando SQL e PYTHON.  
 📫 Entre em contato:  
 ✉️ beatrizgbalmeida@gmail.com  
 📱 (11) 98268-6327  
@@ -14,10 +14,6 @@ Olá! Eu sou a Beatriz Almeida.
 Consegue verifica-lo no meu repósitorio de [Projetos.](https://github.com/beatrizgba/Projetos)
 <br/>
 
-### 🚀 Objetivo  
-
-Meu objetivo é migrar para a área de Dados, unindo minha experiência administrativa ao poder da análise e da tecnologia.  
-<br/>
 
 ### 🛠️ Skills  
 
