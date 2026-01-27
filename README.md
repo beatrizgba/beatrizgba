@@ -19,6 +19,6 @@ Consegue verifica-los no meu repósitorio de [Projetos.](https://github.com/beat
 **Linguagens & Ferramentas que estou aprendendo ou já usei:**  
 
 🐍 **Python (básico)** – Desenvolvimento de algoritmos lógicos, manipulação de estruturas de dados (listas/dicionários) e automação de tarefas simples. <br/>
-📊 **SQL** – Limpeza e modelagem de dados, uso de subqueries, agregações e manipulação de grandes conjuntos de registros. 
+📊 **SQL** – Limpeza e modelagem de dados, uso de subqueries, agregações e manipulação de grandes conjuntos de registros. <br/>
 📄 **Excel (básico)** – Fórmulas simples e organização de dados  
 
