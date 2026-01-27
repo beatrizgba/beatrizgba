@@ -10,8 +10,7 @@ Olá! Eu sou a Beatriz Almeida.
 
 ### 📚 Projetos
 
-💡 Estou desenvolvendo meu primeiro projeto em SQL, aplicando os conhecimentos que venho adquirindo nos estudos.  
-Consegue verifica-lo no meu repósitorio de [Projetos.](https://github.com/beatrizgba/Projetos)
+Consegue verifica-los no meu repósitorio de [Projetos.](https://github.com/beatrizgba/Projetos)
 <br/>
 
 
@@ -19,7 +18,7 @@ Consegue verifica-lo no meu repósitorio de [Projetos.](https://github.com/beatr
 
 **Linguagens & Ferramentas que estou aprendendo ou já usei:**  
 
-🐍 **Python (básico)** – lógica de programação, manipulação de dados com listas e dicionários  
-📊 **SQL** – consultas simples, filtragem, ordenação, joins básicos  
-📄 **Excel (básico)** – fórmulas simples, organização de dados  
+🐍 **Python (básico)** – Desenvolvimento de algoritmos lógicos, manipulação de estruturas de dados (listas/dicionários) e automação de tarefas simples. 
+📊 **SQL** – Limpeza e modelagem de dados, uso de subqueries, agregações e manipulação de grandes conjuntos de registros. 
+📄 **Excel (básico)** – Fórmulas simples e organização de dados  
 
