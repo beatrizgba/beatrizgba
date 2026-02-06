@@ -30,7 +30,7 @@ Você pode conferir meus projetos neste repositório do GitHub:
 ### 🐍 Python (básico)
 - Lógica de programação  
 - Manipulação de listas e dicionários  
-- Análise de dados com **Pandas**  
+- Análise de dados básica com **Pandas**  
 - Criação de gráficos básicos  
 
 ### 📄 Excel (básico)
