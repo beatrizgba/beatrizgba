@@ -1,24 +1,44 @@
-# 👋 Quem é a Beatriz?
+# 👋 Olá! Eu sou a Beatriz Almeida
 
-Olá! Eu sou a Beatriz Almeida.  
-🔭 Atualmente trabalho como Estágiaria de Field Services.  
-🌱 Estou estudando SQL e PYTHON.  
-📫 Entre em contato:  
-✉️ beatrizgbalmeida@gmail.com  
-📱 (11) 98268-6327  
-<br/>
+Sou estudante da área de tecnologia, com foco em **Análise de Dados** e interesse futuro em **Ciência de Dados**.  
+Atualmente estou construindo minha base técnica por meio de **projetos práticos em SQL e Python**.
 
-### 📚 Projetos
+🔭 Atualmente trabalho como **Estagiária de Field Services**  
+🌱 Estudando **SQL** e **Python** com foco em dados  
+📫 Entre em contato comigo:
 
-Consegue verifica-los no meu repósitorio de [Projetos.](https://github.com/beatrizgba/Projetos)
-<br/>
+- ✉️ Email: **beatrizgbalmeida@gmail.com**  
+- 📱 Telefone: **(11) 98268-6327**
 
+---
 
-### 🛠️ Skills  
+## 📚 Projetos
 
-**Linguagens & Ferramentas que estou aprendendo ou já usei:**  
+Você pode conferir meus projetos neste repositório do GitHub:  
+🔗 **[Repositório de Projetos](https://github.com/beatrizgba/Projetos)**
 
-🐍 **Python (básico)** – Desenvolvimento de algoritmos lógicos, manipulação de estruturas de dados (listas/dicionários) e automação de tarefas simples. <br/>
-📊 **SQL** – Limpeza e modelagem de dados, uso de subqueries, agregações e manipulação de grandes conjuntos de registros. <br/>
-📄 **Excel (básico)** – Fórmulas simples e organização de dados  
+---
 
+## 🛠️ Skills
+
+### 🧠 SQL
+- Consultas em bancos de dados relacionais  
+- Uso de **JOINs**, subqueries e funções agregadas  
+- Limpeza e transformação de dados  
+- Análise de dados aplicada a problemas reais  
+
+### 🐍 Python (básico)
+- Lógica de programação  
+- Manipulação de listas e dicionários  
+- Análise de dados com **Pandas**  
+- Criação de gráficos básicos  
+
+### 📄 Excel (básico)
+- Organização de dados  
+- Fórmulas simples  
+
+---
+
+## 🚀 Objetivo Profissional
+
+Meu objetivo é atuar na área de **Dados**, evoluindo como **Analista de Dados** e, no futuro, me especializar em **Ciência de Dados**, aplicando técnicas de análise para resolver problemas reais e gerar valor a partir dos dados.
