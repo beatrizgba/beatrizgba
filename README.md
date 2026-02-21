@@ -1,44 +1,68 @@
 # 👋 Olá! Eu sou a Beatriz Almeida
 
-Sou estudante da área de tecnologia, com foco em **Análise de Dados** e interesse futuro em **Ciência de Dados**.  
-Atualmente estou construindo minha base técnica por meio de **projetos práticos em SQL e Python**.
-
-🔭 Atualmente trabalho como **Estagiária de Field Services**  
-🌱 Estudando **SQL** e **Python** com foco em dados  
-📫 Entre em contato comigo:
-
-- ✉️ Email: **beatrizgbalmeida@gmail.com**  
-- 📱 Telefone: **(11) 98268-6327**
+🎓 Estudante de Ciência da Computação  
+📊 Foco em Análise de Dados e futura especialização em Ciência de Dados  
+💼 Estagiária de Field Services  
 
 ---
 
-## 📚 Projetos
+## 👩‍💻 Sobre mim
 
-Você pode conferir meus projetos neste repositório do GitHub:  
-🔗 **[Repositório de Projetos](https://github.com/beatrizgba/Projetos)**
+Sou estudante da área de tecnologia com foco em Dados.  
+Atualmente desenvolvo minha base técnica por meio de projetos práticos utilizando **Python, SQL e análise de dados**.
+
+Tenho perfil analítico, gosto de identificar padrões, organizar informações e transformar dados em insights que apoiem decisões.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tecnologias
 
-### 🧠 SQL
+### 🗄️ SQL
 - Consultas em bancos de dados relacionais  
-- Uso de **JOINs**, subqueries e funções agregadas  
-- Limpeza e transformação de dados  
-- Análise de dados aplicada a problemas reais  
+- Uso de JOINs, subqueries e funções agregadas  
+- Agrupamentos e filtros para análise de dados  
+- Extração e organização de informações para suporte à decisão  
 
-### 🐍 Python (básico)
-- Lógica de programação  
-- Manipulação de listas e dicionários  
-- Análise de dados básica com **Pandas**  
-- Criação de gráficos básicos  
+### 🐍 Python
+- Lógica de programação e manipulação de estruturas de dados  
+- Automação de tarefas simples  
+- Processamento e organização de dados  
 
-### 📄 Excel (básico)
-- Organização de dados  
-- Fórmulas simples  
+### 📊 Pandas
+- Limpeza e tratamento de dados  
+- Análise Exploratória de Dados (EDA)  
+- Manipulação de DataFrames (filtros, `groupby`, agregações)  
+- Transformação de dados para análise  
+
+### 📈 Matplotlib
+- Criação de gráficos de barra, linha, histograma e pizza  
+- Organização e personalização básica de visualizações  
+- Representação visual de padrões e tendências nos dados  
+
+### 📑 Excel
+- Organização e estruturação de dados  
+- Uso de fórmulas para análise básica  
+- Construção de planilhas para controle e acompanhamento  
+
+### 🔧 Git
+- Versionamento de código  
+- Organização e documentação de projetos no GitHub  
 
 ---
 
-## 🚀 Objetivo Profissional
+## 📂 Projetos
 
-Meu objetivo é atuar na área de **Dados**, evoluindo como **Analista de Dados** e, no futuro, me especializar em **Ciência de Dados**, aplicando técnicas de análise para resolver problemas reais e gerar valor a partir dos dados.
+Confira meus projetos práticos desenvolvidos com foco em análise de dados:
+
+🔗 https://github.com/beatrizgba/Projetos
+
+---
+
+## 📫 Contato
+
+📧 beatrizgbalmeida@gmail.com  
+📱 (11) 98268-6327  
+
+---
+
+⭐ Sempre buscando evoluir na área de Dados e construir soluções orientadas por informação.
